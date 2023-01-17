@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rcharper100
-- 👀 I’m interested in aviation, racing, computers
+- 👀 I’m interested in aviation, cars, racing, computers, and photography
 - 🌱 I’m currently learning JS, Python, and Swift
 - 📫 How to reach me email: rcharper100@gmail.com
 
